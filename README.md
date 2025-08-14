@@ -10,8 +10,11 @@ Easy customization - CSS custom properties for quick theming
 Accessible - Semantic HTML structure with proper link handling
 
 🚀 Demo
+
 Hover over the icons to see the glowing animation effect in action!
-https://github.com/user-attachments/assets/c1dad7c3-ca66-4936-85a0-9656812dc9d9
+
+
+![Image](https://github.com/user-attachments/assets/31e03f82-20ab-4ec6-9fe1-6f56f95ea3e3)
 
 
 
